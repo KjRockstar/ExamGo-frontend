@@ -5,4 +5,4 @@
 // to Render, change it to your Render URL, e.g.:
 //   const API_BASE_URL = 'https://examgo-backend.onrender.com';
 
-const API_BASE_URL = 'https://examprep-i6ov.onrender.com';
+const API_BASE_URL = 'https://examgo-backend.onrender.com';
